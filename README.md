@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EddieDevv
-- 👀 I’m interested in Web2/Web3 and Game Development
-- 🌱 I’m currently learning HTML, CSS, JavaScript, React, C++, Unreal Engine 5
+- 👀 I’m interested in Web2/Web3
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React
 - 📫 How to reach me: 
 -   Email: eddieagic2001@gmail.com
 -   Twitter: @burnrnoinfinity
